@@ -1,0 +1,2 @@
+rootProject.name = "NotificationsChannelsExample"
+include ':app'
